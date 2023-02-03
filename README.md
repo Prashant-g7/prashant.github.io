@@ -1,10 +1,1 @@
-# prashant.github.io![1](https://user-images.githubusercontent.com/119013920/216609430-aacdb172-87b9-4bff-9eab-970d0259fa98.jpg)
-![2](https://user-images.githubusercontent.com/119013920/216609470-2db82c93-b761-40ae-af9a-dd9653bb8e6a.jpg)
-![3](https://user-images.githubusercontent.com/119013920/216609484-ef438a55-3ac9-424c-82dc-a4c1ec7e6722.jpg)
-![4](https://user-images.githubusercontent.com/119013920/216609497-aa6633d4-b791-45be-9eec-7a4ab02aed7c.jpg)
-![5](https://user-images.githubusercontent.com/119013920/216609531-483ca735-c2fc-4d1a-a0b7-65597b8c05b7.jpg)
-![6](https://user-images.githubusercontent.com/119013920/216609583-44f2f50c-7e5d-44e0-bcc0-5b22426e619d.jpg)
-![founder-social-media](https://user-images.githubusercontent.com/119013920/216609622-61afe066-38c0-4fd6-ab91-104cb3f09864.png)
-![rss](https://user-images.githubusercontent.com/119013920/216609631-e3d6540b-bc02-45f7-a799-9a92b422d99b.png)
-![search](https://user-images.githubusercontent.com/119013920/216609641-3ae4ac62-db7f-4187-a8e9-7730f857a74d.jpg)
-![sprites](https://user-images.githubusercontent.com/119013920/216609650-4f5ca310-e095-49a0-a060-b65825ccc31c.png)
+
